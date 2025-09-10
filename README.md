@@ -28,3 +28,11 @@ Crossings peaked around 2000, dropped after 9/11, and fell dramatically in 2020 
 
 👉 Technologies used: PostgreSQL, SQL, Python (Pandas, Matplotlib), Tableau.
 👉 Next steps: ML forecasting (Prophet / Regression) and advanced dashboards.
+
+## 📊 Tableau Dashboard
+
+Explore the interactive dashboard published on Tableau Public:  
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/views/YOUR_DASHBOARD_LINK)
+
+### Dashboard Preview
+![Tableau Dashboard Preview](Visualization/dashboard_preview.png)
